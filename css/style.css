@@ -131,7 +131,7 @@ ul li a{
         flex-direction: column;
         text-align: center;
     }
-    main .personal p{
+    main .personal p span{
     margin: 2px;color: #888;font-size: 12px;border-bottom: 2px solid #f3f1f8;width: 100%;
 }
 }
