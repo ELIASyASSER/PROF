@@ -57,11 +57,11 @@ main .img{
     /* background-color: #2948a4; */
 }
 main .img img{
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     /* width: 100%; */
     background-color: transparent;
-    border-radius: 10px;
+    border-radius:75px;
 }
 main .information{
     flex-basis: 40%;
